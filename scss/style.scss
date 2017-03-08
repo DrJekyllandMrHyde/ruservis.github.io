@@ -1,0 +1,40 @@
+BODY {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+}
+
+P {
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.l-page {
+  display: flex;
+  flex-direction: column;
+  min-width: 320px;
+  min-height: 100%;
+  min-height: 100vh;
+  height: 100vh;
+  margin: 0 auto;
+  
+  &__footer {
+    padding: 20px 0;
+    text-align: center;
+    background: #0af;
+  }
+}
+
+.l-main {
+  flex: 1 0 auto;
+  
+  &__header {
+    padding: 20px 0;
+    text-align: center;
+    background: #fa0;
+  }
+  
+  &__content {
+    background: #f0a;
+  }
+}
