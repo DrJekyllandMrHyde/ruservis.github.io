@@ -18,7 +18,7 @@ P {
     bottom: 0;
     /* margin-bottom: 67px; */
     top: 0px;
-    height: 81.5vh;
+    height: 80.5vh;
   border:0;
 
 }
@@ -103,7 +103,7 @@ iPad 3
 @media only screen  and (min-width : 1224px) {
 /* Styles */
   #frame {
-  height:86.5vh;
+  height:85.5vh;
   }
 }
 
