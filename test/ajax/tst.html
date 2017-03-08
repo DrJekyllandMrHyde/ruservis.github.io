@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Test </title>
+      <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+<link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>
+ <link rel="stylesheet" href="css/pricing.css">
+      <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>       <center> <div class="form-group pull-right">
+    <input type="text" class="search form-control" placeholder="поиск">
+   </div></center>
+  
+<span class="counter pull-right"></span>
+<table class="table table-hover table-bordered results">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th class="col-md-5 col-xs-5">Работы</th>
+      <th class="col-md-4 col-xs-4">Стоимость</th>
+      <th class="col-md-3 col-xs-3">Примечания</th>
+    </tr>
+    <tr class="warning no-result">
+      <td colspan="4"><i class="fa fa-warning"></i> No result</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Минимальный выезд</td>
+      <td>500р.</td>
+      <td>{{title}}</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Ремонт</td>
+      <td>600р.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Ремонт</td>
+      <td>700р.</td>
+      <td>{{{title}}}</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Ремонт</td>
+      <td>800р.</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<!------------------------------------------->
+
+
+ <tbody>
+  <div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <div class="sorter">
+      <span>По :</span>
+      <a href="#" class="btn btn-success btn1 animated fadeInLeft sort" data-sort="price:asc">%Цене%</a>
+      <a href="#" class="btn btn-success btn2 animated fadeInLeft sort" data-sort="author:asc">%Описанию%</a>
+      <a href="#" class="btn btn-success btn3 animated fadeInLeft sort" data-sort="title:asc">%Чел.№%</a>
+      </div>
+    </div>
+  </div>
+  <div id="banner" class="row banner">
+    
+  </div>
+</div>
+<script id="bookStore" type="x-handlebars-template">
+  {{#each books}}
+  <div class="mix col-sm-6 col-md-4 text-center"  data-author="{{author}}" data-price="{{price}}" data-title="{{title}}">
+    <div class="grid-item">
+    <img src="{{image}}" alt="" />
+    <h4 id="{{title}}">{{title}}</h4>
+    <p>{{author}}</p>
+    <span>{{price}}</span>
+    <a href="#" class="btn btn-success btn-buy">То что нужно</a>
+    </div>
+  </div>
+  {{/each}}
+</script>
+    </tbody>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/3.0.0/handlebars.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mixitup/2.1.11/jquery.mixitup.min.js'></script>
+<script src="js/index.js"></script>
+ <script src="js/pricing.js"></script>
+ </body>
+ </html>
