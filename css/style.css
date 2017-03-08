@@ -2,8 +2,10 @@ BODY {
   margin: 0;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 20px;
+  overflow: hidden;
 }
-a{color:#fff;}
+a{color:#999;}
+a:hover{color:#fff;}
 P {
   margin: 0;
   padding-bottom: 20px;
