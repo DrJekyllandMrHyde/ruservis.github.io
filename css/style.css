@@ -40,7 +40,7 @@ P {
 .l-page__footer {
   padding: 20px 0;
   text-align: center;
-  background: rgba(255, 191, 0, 0.58);
+  background: #FFC107;
       z-index: 1;
       position: fixed;
     bottom: 0;
@@ -55,7 +55,7 @@ P {
 .l-main__header {
   padding: 20px 0;
   text-align: center;
-  background: rgba(255, 191, 0, 0.58);
+  background: #FFC107;
 }
 .l-main__content {
  background: rgba(255, 191, 0, 0.58);
