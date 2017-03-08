@@ -1156,7 +1156,7 @@ Handlebars.registerHelper('eachByName', function(context, options) {
         /* subin */
         if( letter !== context[key].name[0]){
           letter = context[key].name[0];
-        	 ret = ret + "<div class='stone'><span>" + context[key].name[0] + "</span></div>";
+        	 ret = ret + "<div class='stone'><img src="{{image}}" alt="" /><br><span>" + context[key].name[0] + "</span></div>";
         }
         /* end subin */
         
