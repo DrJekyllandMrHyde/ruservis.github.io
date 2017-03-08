@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Mustache Json</title>
+</head>
+<body>
+	<h2>List all names</h2>
+	<ul id="list-names"></ul>
+
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+	<script type="text/javascript">
+  		$.getJSON('person.json', function (data) {
+			var template = $('#person-tpl').html();
+			var html = Mustache.to_html(template, data);
+			$('#list-names').html(html);
+		});
+	</script>
+	<script id="person-tpl" type="text/template">
+		<li>{{name}}</li>
+	</script>
+</body>
+</html>
