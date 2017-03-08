@@ -36,6 +36,7 @@ var data1 = 		{
 				"location": "LEVEL 1 / NIVEAU 1\r\n",
 				"name": "Заголовок",
 				"phone": "495-204-9557"
+				"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
 			},
 			"1108": {
 				"categories": [
