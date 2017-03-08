@@ -144,6 +144,7 @@ iPad 3
 
 @media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
 /* Styles */
+  #frame{height: 82.7vh;}
 }
 
 /* Samsung Galaxy S3 ----------- */
