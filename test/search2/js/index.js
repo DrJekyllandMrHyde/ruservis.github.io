@@ -31,9 +31,9 @@ var storeData;
         renderList (storeData);
         renderQuickLinks (storeData);
                
-    /*  }); */
+      }); 
      
-});
+};
 
 
 
@@ -314,4 +314,4 @@ Handlebars.registerHelper('eachByCategory', function(context, options) {
   			
         return ret;
 
-};
+});
