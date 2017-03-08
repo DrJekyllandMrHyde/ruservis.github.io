@@ -9,6 +9,19 @@ P {
   padding-bottom: 20px;
 }
 
+#frame{
+  /* padding: 0; */
+    /* margin: 0; */
+    width: 100%;
+    /* position: absolute; */
+    /*padding-top: 63px;*/
+    bottom: 0;
+    /* margin-bottom: 67px; */
+    top: 0px;
+    height: 86.7vh;
+
+}
+
 .l-page {
   display: -webkit-box;
   display: -ms-flexbox;
