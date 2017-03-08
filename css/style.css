@@ -42,7 +42,7 @@ P {
   text-align: center;
   background: rgba(255, 191, 0, 0.58);
       z-index: 1;
-      position: absolute;
+      position: fixed;
     bottom: 0;
     width: 100%;
 }
