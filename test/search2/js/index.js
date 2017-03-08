@@ -1,4 +1,4 @@
-var data1 = 		{
+var data1 = 	{
 			"1105": {
 				"categories": [
 					"Категория"
