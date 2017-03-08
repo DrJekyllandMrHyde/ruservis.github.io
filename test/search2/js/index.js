@@ -314,4 +314,4 @@ Handlebars.registerHelper('eachByCategory', function(context, options) {
   			
         return ret;
 
-});
+};
