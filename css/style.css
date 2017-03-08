@@ -3,7 +3,7 @@ BODY {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 20px;
 }
-
+a{color:fff;}
 P {
   margin: 0;
   padding-bottom: 20px;
