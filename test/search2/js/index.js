@@ -9,7 +9,7 @@ var storesURL  =  "https://madapp.firebaseio.com/CF.json";
 var storeData;
 
   init = function (){
-   /*   $.ajax({
+      $.ajax({
                  url: storesURL,
                  type: "GET",
                  accept :"application/json",
@@ -19,7 +19,7 @@ var storeData;
       .done(function(data){
         
         storeData = data;
-       */ 
+        
         storeData  = data1;
         
         /** Temp : data need to b sorted **/
