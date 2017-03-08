@@ -4,7 +4,7 @@ BODY {
   font-size: 20px;
   overflow: hidden;
 }
-a{color:#999;}
+a{color:rgba(245, 245, 245, 0.5);}
 a:hover{color:#fff;}
 P {
   margin: 0;
