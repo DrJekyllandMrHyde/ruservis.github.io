@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600);
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+img{
+  max-width: 100%;
+  min-height: 200px;
+  height: 200px;
+}
+.sorter{
+  width: 90%;
+  margin: 10px;
+  padding: 5px;
+}
+.grid-item{
+  width: 90%;
+  margin: 10px auto;
+  padding: 5px;
+  border: 1px solid #999;
+  box-shadow: 1px 1px 2px #999;
+  border-bottom: 7px solid #FA7921;
+  min-height: 360px;
+}
+h4{
+  cursor: pointer;
+}
+h4.fav:after,h4:hover:after{
+  content: ' \2605';
+  color: rgb(255, 203, 0);
+}
+h4.fav:hover:after{
+  content: ' \2606';
+}
+a.btn-success{
+  margin-left: 10px;
+  background: #FA7921;
+  border: 1px solid #FA7921;
+  padding: 5px 30px;
+  border-radius: 0;
+  font-weight: bold;
+}
+
+.btn2 {
+  -webkit-animation-delay: 0.25s;
+  -safari-animation-delay: 0.25s;
+}
+
+.btn3 {
+  -webkit-animation-delay: 0.5s;
+  -safari-animation-delay: 0.5s;
+}
+p{
+  font-weight: bold;
+  color: #999;
+}
+span{
+  font-weight: bold;
+  color: #999;
+  font-size: 17px
+}
+a.btn.sort{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
