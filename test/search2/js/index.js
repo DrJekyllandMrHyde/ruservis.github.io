@@ -19,7 +19,7 @@ var storeData;
         
         storeData = data;
         
-        storeData  = data1;
+        storeData  = storesURL;
         
         /** Temp : data need to b sorted **/
         storeData =  filter({value:''});
