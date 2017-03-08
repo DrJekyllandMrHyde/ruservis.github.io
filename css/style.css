@@ -26,7 +26,7 @@ P {
 .l-page__footer {
   padding: 20px 0;
   text-align: center;
-  background: #0af;
+  background: rgba(158, 158, 158, 0.1);
 }
 
 .l-main {
@@ -37,7 +37,7 @@ P {
 .l-main__header {
   padding: 20px 0;
   text-align: center;
-  background: #fa0;
+  background: rgba(158, 158, 158, 0.1);
 }
 .l-main__content {
   background: #f0a;
