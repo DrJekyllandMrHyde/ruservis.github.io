@@ -1,5 +1,6 @@
 $('#banner').mixItUp();
 
+
 $.ajax({
   type: "GET",
 url:"https://ruservis.github.io/test/ajax/data.json",
