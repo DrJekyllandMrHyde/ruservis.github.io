@@ -16,9 +16,9 @@ var storeData;
        })
       .done(function(data){
         
-        storeData = data;
+        storeData = storesURL;
         
-        storeData  = storesURL;
+        storeData  = data1;
         
         /** Temp : data need to b sorted **/
         storeData =  filter({value:''});
