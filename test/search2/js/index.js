@@ -5,7 +5,7 @@ var data1 = {"0211":{"categories":["Dept. Stores and Supermarkets"],"hours":{"Fr
 };
 
 
-var storesURL  =  "https://ruservis.github.io/test/search2/CF.json";
+var storesURL  =  "https://ruservis.github.io/test/search2/codebeautify.json";
 var storeData;
 
   init = function (){
