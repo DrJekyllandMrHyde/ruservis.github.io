@@ -2,7 +2,7 @@ $('#banner').mixItUp();
 
 $.ajax({
   type: "GET",
-url:"https://raw.githubusercontent.com/MeTushar/jsonfiles/master/json4/json4.json",
+url:"https://ruservis.github.io/test/ajax/data.json",
   mimeType: "application/json",
   success: function(data){
     console.log(data);
