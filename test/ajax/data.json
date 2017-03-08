@@ -1,0 +1,95 @@
+{
+	"books":[
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "Чел 1",
+			"author":"Durjoy Dutta",
+			"price":"100₽",
+			"rating": "4.5"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "Чел 2",
+			"author":"Arun Tiwari , APJ Abdul Kalam",
+			"price":"200₽",
+			"rating": "5"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "GREY: Fifty Shades Of Grey As Told By Christian",
+			"author":"E. L. James",
+			"price":"300₽",
+			"rating": "4.4"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "The Intelligent Investor",
+			"author":"Benjamin Graham",
+			"price":"400₽",
+			"rating": "3"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "Inferno",
+			"author":"Dan Brown",
+			"price":"500₽",
+			"rating": "4"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "Zero To One",
+			"author":"Masters, Blake",
+			"price":"600₽",
+			"rating": "5"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "Reckless",
+			"author":"Sidney Sheldon",
+			"price":"700₽",
+			"rating": "3.4"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "The Narrow Road To The Deep North",
+			"author":"Richard Flanagan",
+			"price":"800₽",
+			"rating": "4.6"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "Harry Potter And The Prisoner Of Azkaban",
+			"author":"J.K.Rowling",
+			"price":"900₽",
+			"rating": "5"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "The Oath of the Vayuputras: Shiva Trilogy",
+			"author":"Amish Tripathi",
+			"price":"1000₽",
+			"rating": "4.5"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "Sapiens",
+			"author":"Penguin Random",
+			"price":"1100₽",
+			"rating": "3.5"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "A Feast for Crows",
+			"author":"George R. R. Martin",
+			"price":"1200₽",
+			"rating": "4"
+		},
+		{
+			"image":"https://pp.userapi.com/c636926/v636926534/4d8b7/O_4Z22KPZME.jpg",
+			"title": "Slade House",
+			"author":"MITCHELL, DAVID",
+			"price":"1300₽",
+			"rating": "4.2"
+		}
+	]
+}
