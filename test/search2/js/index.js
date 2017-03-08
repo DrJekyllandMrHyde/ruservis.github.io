@@ -3,7 +3,6 @@
   
  };*/
 
-
 var storesURL  =  "https://ruservis.github.io/test/search2/codebeautify.json";
 var storeData;
 
