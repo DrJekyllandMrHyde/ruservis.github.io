@@ -1,7 +1,7 @@
 {
 	"1105": {
 		"categories": [
-			"Unisex Apparel"
+			"Категория#0"
 		],
 		"hours": {
 			"Friday": [
@@ -39,7 +39,7 @@
 	},
 	"1108": {
 		"categories": [
-			"Electronics, Computers and Telephones",
+			"Категория#1, Категория#2",
 			"Music & Videos"
 		],
 		"hours": {
@@ -78,7 +78,7 @@
 	},
 	"1113": {
 		"categories": [
-			"Electronics, Computers and Telephones"
+			"Категория#1, Категория#2"
 		],
 		"hours": {
 			"Friday": [
@@ -116,7 +116,7 @@
 	},
 	"1114": {
 		"categories": [
-			"Electronics, Computers and Telephones"
+			"Категория#1, Категория#2"
 		],
 		"hours": {
 			"Friday": [
@@ -154,7 +154,7 @@
 	},
 	"2104": {
 		"categories": [
-			"Footwear"
+			"Категория#3"
 		],
 		"hours": {
 			"Friday": [
@@ -192,7 +192,7 @@
 	},
 	"2108": {
 		"categories": [
-			"Children's Apparel"
+			"Категория#4"
 		],
 		"hours": {
 			"Friday": [
@@ -230,7 +230,7 @@
 	},
 	"2111": {
 		"categories": [
-			"Footwear"
+			"Категория#3"
 		],
 		"hours": {
 			"Friday": [
@@ -268,7 +268,7 @@
 	},
 	"2112": {
 		"categories": [
-			"Footwear"
+			"Категория#3"
 		],
 		"hours": {
 			"Friday": [
@@ -306,7 +306,7 @@
 	},
 	"2113": {
 		"categories": [
-			"Fashion Accessories"
+			"Категория#5"
 		],
 		"hours": {
 			"Friday": [
@@ -344,7 +344,7 @@
 	},
 	"2117": {
 		"categories": [
-			"Footwear"
+			"Категория#3"
 		],
 		"hours": {
 			"Friday": [
@@ -382,7 +382,7 @@
 	},
 	"2124": {
 		"categories": [
-			"Unisex Apparel"
+			"Категория#0"
 		],
 		"hours": {
 			"Friday": [
@@ -420,7 +420,7 @@
 	},
 	"2125": {
 		"categories": [
-			"Ladies Apparel"
+			"Категория#6"
 		],
 		"hours": {
 			"Friday": [
@@ -458,7 +458,7 @@
 	},
 	"2126": {
 		"categories": [
-			"Unisex Apparel"
+			"Категория#0"
 		],
 		"hours": {
 			"Friday": [
@@ -496,7 +496,7 @@
 	},
 	"2127": {
 		"categories": [
-			"Footwear"
+			"Категория#3"
 		],
 		"hours": {
 			"Friday": [
@@ -534,8 +534,8 @@
 	},
 	"2134": {
 		"categories": [
-			"Cards, Stationery and Gifts",
-			"Jewellery"
+			"Категория#7, Категория#8",
+			"Категория#9"
 		],
 		"hours": {
 			"Friday": [
@@ -573,8 +573,8 @@
 	},
 	"3102": {
 		"categories": [
-			"Ladies Apparel",
-			"Men's Apparel"
+			"Категория#6, Категория#9"
+			
 		],
 		"hours": {
 			"Friday": [
@@ -725,7 +725,7 @@
 	},
 	"9999": {
 		"categories": [
-			"Services"
+			"Категория#Сервис"
 		],
 		"hours": {
 			"Friday": [
