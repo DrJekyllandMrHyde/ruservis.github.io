@@ -1,5 +1,5 @@
 
-var storesURL  =  "https://ruservis.github.io/test/search2/codebeautify.json";
+var storesURL  =  "//phpmvc.herokuapp.com/db";
 var storeData;
 
   init = function (){
