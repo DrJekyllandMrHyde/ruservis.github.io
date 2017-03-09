@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+}
+
+a { color: #339; text-decoration: none; }
+
+.filter {
+  float: left;
+  margin: 1em;
+  width:100%;
+}
+
+#quicklinks {
+  margin: 1em; 
+  width:100%;
+  float:left;
+}
+
+
+
+input {
+    font-size: 1.1em;
+}
+
+.store {
+   border : 2px solid #ccc;
+  float: left;
+  width :32%;
+  margin-right:1%;
+  margin-bottom: 1%;
+  padding: 2%;
+  height: 150px;
+  box-sizing: border-box;
+}
+h4 {
+  margin:.5em 0;
+}
