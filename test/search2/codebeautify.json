@@ -34,8 +34,8 @@
 			]
 		},
 		"location": "LEVEL 1 / NIVEAU 1\r\n",
-		"name": "Ремонт",
-		"phone": "416-204-9557"
+		"name": "Заголовок",
+		"phone": "описание<br><button>экшн</button> / контакты"
 	},
 	"1108": {
 		"categories": [
@@ -111,7 +111,7 @@
 			]
 		},
 		"location": "LEVEL 1 / NIVEAU 1\r\n",
-		"name": "Rogers Plus Store",
+		"name": "Заголовок",
 		"phone": "416-351-1522"
 	},
 	"1114": {
@@ -149,7 +149,7 @@
 			]
 		},
 		"location": "LEVEL 1 / NIVEAU 1\r\n",
-		"name": "The Source",
+		"name": "Заголовок",
 		"phone": "416-979-7776"
 	},
 	"2104": {
@@ -187,7 +187,7 @@
 			]
 		},
 		"location": "LEVEL 2 / NIVEAU 2\r\n",
-		"name": "Capezio",
+		"name": "Заголовок",
 		"phone": "416-597-6662"
 	},
 	"2108": {
@@ -225,7 +225,7 @@
 			]
 		},
 		"location": "LEVEL 2 / NIVEAU 2\r\n",
-		"name": "Baby Gap",
+		"name": "Заголовок",
 		"phone": "416-591-0512"
 	},
 	"2111": {
@@ -263,7 +263,7 @@
 			]
 		},
 		"location": "LEVEL 2 / NIVEAU 2\r\n",
-		"name": "Rockport",
+		"name": "Заголовок",
 		"phone": "416-597-0646"
 	},
 	"2112": {
@@ -301,7 +301,7 @@
 			]
 		},
 		"location": "LEVEL 2 / NIVEAU 2\r\n",
-		"name": "Geox",
+		"name": "Заголовок",
 		"phone": "416-599-4369"
 	},
 	"2113": {
@@ -339,7 +339,7 @@
 			]
 		},
 		"location": "LEVEL 2 / NIVEAU 2\r\n",
-		"name": "Sunglass Hut",
+		"name": "Заголовок",
 		"phone": "416-971-6395"
 	},
 	"2117": {
@@ -377,7 +377,7 @@
 			]
 		},
 		"location": "LEVEL 2 / NIVEAU 2\r\n",
-		"name": "Town Shoes",
+		"name": "Заголовок",
 		"phone": "416-979-9914"
 	},
 	"2124": {
@@ -415,7 +415,7 @@
 			]
 		},
 		"location": "LEVEL 2 / NIVEAU 2\r\n",
-		"name": "Bench",
+		"name": "Заголовок",
 		"phone": "416-548-8656"
 	},
 	"2125": {
@@ -453,7 +453,7 @@
 			]
 		},
 		"location": "LEVEL 2 / NIVEAU 2\r\n",
-		"name": "Marciano",
+		"name": "Заголовок",
 		"phone": "416-598-4676"
 	},
 	"2126": {
